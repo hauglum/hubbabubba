@@ -1,0 +1,12 @@
+name: hubbabubba
+title: hubbabubba
+username: hubbabubba
+account: hubbabubba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10752596
+bundleId: 8025238
+url: https://hubbabubba.shinyapps.io/hubbabubba/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
