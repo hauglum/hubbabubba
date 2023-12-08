@@ -8,7 +8,6 @@
 #
 
 library(shiny)
-rsconnect::setAccountInfo(name='hubbabubba', token='0AB92A5B9E649D49338F7185C8E0C69F', secret='2citvlFHVpPfKpyL3uIjL9mHYY1FAxGmNR7lQ3Fa')
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
